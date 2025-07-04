@@ -78,9 +78,9 @@ The project is automated using stored procedures and includes a comprehensive **
 Provides a **field-level metadata** reference to assist all users in understanding data structure, types, and relationships.
 
 ### Catalog Tables:
-- [`dim_customers`](#dim_customers)
-- [`dim_products`](#dim_products)
-- [`fact_sales`](#fact_sales)
+- #dim_customers
+- #dim_products
+- #fact_sales
 
 ### How to Use:
 - **Data Analysts**: Understand relationships and query confidently.
