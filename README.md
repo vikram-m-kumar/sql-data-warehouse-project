@@ -87,7 +87,7 @@ Provides a **field-level metadata** reference to assist all users in understandi
 - **Engineers**: Maintain schema and pipeline consistency.
 - **Business Users**: Use as a reference while building dashboards or reports.
 
-👉 [View Full Data Catalog in Markdown](sql-data-warehouse-project/other_docs/data_catalog.md)
+👉 [View Full Data Catalog in Markdown](other_docs/data_catalog.md)
 
 ---
 
